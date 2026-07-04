@@ -2,6 +2,8 @@
 
 A RESTful Notes API built to perform basic CRUD operations using Express.js and MongoDB. This project provides a simple backend foundation for a notes application.
 
+**API Documentation:** [Postman API Examples](https://documenter.getpostman.com/view/41080883/2sBY4HUjBr)
+
 ---
 
 ## 📚 Tech Stack
